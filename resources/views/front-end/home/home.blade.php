@@ -36,46 +36,6 @@ Slider Section Start
 
 <!--
 ==================================================
-About Section Start
-================================================== -->
-<section id="about">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-6">
-                <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
-                    <h2>
-                    MISSION
-                    </h2>
-                    <p>
-                        My mission is to give web services to the people and make some changes to the society. I also want to encourage women to be more interested in different technologies so that they can also be a part of it. I make small step towards my goal by learning something new everyday. This learning curve makes me stronger than before. It also helps me to apply new things to my work.
-                    </p>
-                    <h2>
-                    VISION
-                    </h2>
-                    <p>
-                        I want so see myself as an experienced web developer in any reputed company or under my country's government. I also want to grow myself as a diligent person.
-                    </p>
-                    <h2>
-                    DREAM
-                    </h2>
-                    <p>
-                        My dream is to make living easier for those who continue fight for several essential things. I think making their life a little bit of easy will satisfy me for myself. I also want to be a role model for the female learners to make their way in productive sites of the society.
-                    </p>
-                </div>
-                
-            </div>
-            <div class="col-md-6 col-sm-6">
-                <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                    <img src="{{asset('/')}}front-end/images/about/about.jpg" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-</section> <!-- /#about -->
-
-
-<!--
-==================================================
 Portfolio Section Start
 ================================================== -->
 <section id="feature">
@@ -88,7 +48,7 @@ Portfolio Section Start
                 <div class="media wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="1200ms">
                     <div class="media-left">
                         <div class="icon">
-                            <i class="ion-ios-americanfootball-outline"></i>
+                            <i class="ion-ios-lightbulb-outline"></i>
                         </div>
                     </div>
                     <div class="media-body">
